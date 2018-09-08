@@ -112,15 +112,9 @@ Both exploit documents used a previously identified legitimate executable, and a
 
 Analysis of command and control infrastructure suggests that GOBLIN PANDA is targeting entities in Laos, as well. CrowdStrike Intelligence has not directly observed Laotian targeting, and cannot confirm targets in Laos for this campaign, however, previous activity linked to GOBLIN PANDA has targeted this country.
 
-
-https://www.sophos.com/en-us/medialibrary/PDFs/technical%20papers/CVE-2012-0158-An-Anatomy-of-a-Prolific-Exploit.PDF
-estimate 2016 date
-The code that CVE-2012-0158 exploits is housed within the Microsoft Windows Common Control Library. MSCOMCTL.OCX is a Dynamic Linked Library (DLL) containing common controls such as the ComboBox, and ProgressBar, among others. CVE-2012-0158 is 
-concerned specifically with the ListView and TreeView ActiveX controls. Both of these controls can be exploited in Word documents and Excel spreadsheets, neither of which would appear out of place in emails between acquaintances or customers. 
-The CVE-2012-0158 vulnerability affects Office 2003, 2007 and 2010, with the latter being the latest Microsoft offering at the time of the vulnerability’s disclosure. Despite alternatives to Microsoft Office making inroads recently, it is still the dominant player in the market
-CVE-2012-0158 is classified as an “Arbitrary Code Execution” vulnerability. This type of vulnerability is considered one of the most severe as, if exploited, it allows the bad guys to hijack the program (in this case Microsoft Word/Excel) and force it to do its bidding.
-The first few files to exploit CVE-2012-0158 were in the Office 97-2003 file format known as the Object Linking and Embedding Compound File format (OLE2 for short). This file format uses a FAT based hierarchic directory structure to declare storages and streams, of fixed sized blocks. OLE streams define all aspects of documents and spreadsheets.
 ## Links
 Articles that are yet to be read
 
-https://nvd.nist.gov/vuln/detail/CVE-2012-0158
+https://medium.com/@Sebdraven/goblin-panda-targets-cambodia-sharing-capacities-with-another-chinese-group-hackers-temp-periscope-7871382ffcc0
+
+https://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf
