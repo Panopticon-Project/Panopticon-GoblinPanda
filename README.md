@@ -118,3 +118,5 @@ Articles that are yet to be read
 https://medium.com/@Sebdraven/goblin-panda-targets-cambodia-sharing-capacities-with-another-chinese-group-hackers-temp-periscope-7871382ffcc0
 
 https://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf
+
+https://securelist.com/cycldek-bridging-the-air-gap/97157/
