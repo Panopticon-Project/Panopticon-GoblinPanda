@@ -120,3 +120,5 @@ https://medium.com/@Sebdraven/goblin-panda-targets-cambodia-sharing-capacities-w
 https://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf
 
 https://securelist.com/cycldek-bridging-the-air-gap/97157/
+
+https://medium.com/@Sebdraven/rtf-royal-road-drops-a-new-backdoor-mfc-and-links-with-goblin-panda-90db06f80611
