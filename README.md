@@ -124,3 +124,5 @@ https://securelist.com/cycldek-bridging-the-air-gap/97157/
 https://medium.com/@Sebdraven/rtf-royal-road-drops-a-new-backdoor-mfc-and-links-with-goblin-panda-90db06f80611
 
 https://medium.com/@Sebdraven/rtf-royal-road-drops-a-new-backdoor-mfc-and-links-with-goblin-panda-90db06f80611
+
+https://drive.google.com/file/d/11otA_VmL061KcFC5MhDYuNdIKHYbpyrd/view
