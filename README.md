@@ -128,3 +128,5 @@ https://medium.com/@Sebdraven/rtf-royal-road-drops-a-new-backdoor-mfc-and-links-
 https://drive.google.com/file/d/11otA_VmL061KcFC5MhDYuNdIKHYbpyrd/view
 
 https://blog.threatstop.com/apt27-enters-ransomware-business
+
+https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/
