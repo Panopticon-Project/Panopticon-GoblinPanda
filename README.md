@@ -130,3 +130,5 @@ https://drive.google.com/file/d/11otA_VmL061KcFC5MhDYuNdIKHYbpyrd/view
 https://blog.threatstop.com/apt27-enters-ransomware-business
 
 https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/
+
+https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/
