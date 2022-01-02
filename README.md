@@ -131,4 +131,6 @@ https://blog.threatstop.com/apt27-enters-ransomware-business
 
 https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/
 
+https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
+
 
